@@ -9,17 +9,36 @@ description: "Research themes in clinical epidemiology, critical care, and causa
 
 日常診療で生じる問いを、対象集団、治療・曝露、比較、アウトカム、time zeroが明確な研究デザインへ変換します。観察データの強みを活かしながら、交絡、選択、測定、欠測によるバイアスを検討します。
 
+代表論文
+
+- [Classifying diarrhea in critically ill patients through various criteria: a cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:r0BpntZqJG4C) — *Journal of Intensive Care*, 2025。重症患者の下痢を複数の基準で分類・評価。
+- [Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:3fE2CSJIrl8C) — *Journal of General Internal Medicine*, 2023。医療従事者の負担を測定する尺度の開発と初期検証。
+
 ## Critical care outcomes
 
 集中治療領域における短期転帰だけでなく、退院後の機能、生活の質、患者・家族にとって重要な長期転帰を扱います。競合イベントや追跡不能を含む、臨床的に意味のある解釈を重視します。
+
+代表論文
+
+- [Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:RHpTSmoSYBkC) — *Intensive Care Medicine*, 2025。高齢者が重症疾患に直面した際に重視するアウトカムを調査。
+- [Association between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:QIV2ME_5wuYC) — *Journal of Critical Care*, 2024。ICU入室時の併存疾患と敗血症後の身体機能障害との関連を検討。
 
 ## Causal inference
 
 target trial emulation、傾向スコア、重み付け、時間依存性交絡などを用い、推定したい効果と解析上の仮定を対応させます。感度分析を、結果を増やすためではなく結論の頑健性を評価するために用います。
 
+代表論文
+
+- [Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:BqipwSGYUEgC) — *Journal of Intensive Care*, 2026。ROX indexに基づく挿管方針をtarget trial emulationで評価。
+- [Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:GnPB-g6toBAC) — *Journal of the American Medical Directors Association*, 2026。75〜84歳の健診受診方針と機能障害・死亡を評価。
+
 ## AI bias, fairness, and transportability
 
 医療AIに含まれるバイアスと患者集団間の公平性を研究しています。予測性能を識別能だけで判断せず、キャリブレーション、臨床的有用性、サブグループごとの性能、施設間移転性を含めて評価します。とくに、検査頻度など医療提供の過程で生じる「観察プロセス」が、予測と公平性に及ぼす影響に注目しています。
+
+関連論文
+
+- [Artificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:NMxIlDl6LWMC) — *Annals of Clinical Epidemiology*, 2026。医療システムにおけるAIとデジタルトランスフォーメーションを論じた論文。
 
 ## Current research directions
 
@@ -29,7 +48,5 @@ target trial emulation、傾向スコア、重み付け、時間依存性交絡�
 - 医療AIのバイアス、公平性、施設間移転性
 - 患者・医療者中心アウトカムの測定と評価
 
-::: {.callout-note title="このページの更新について"}
-進行中・公開済みの研究ごとに、概要、共同研究者、論文、コードへのリンクを追加できます。公開前に、守秘義務や研究参加者のプライバシーに関わる情報が含まれないことを確認します。
-:::
+[その他の論文・業績を見る](publications.qmd){.btn .btn-outline-dark}
 

@@ -11,35 +11,35 @@
     "href": "research.html#clinical-epidemiology",
     "title": "Research",
     "section": "Clinical epidemiology",
-    "text": "Clinical epidemiology\n日常診療で生じる問いを、対象集団、治療・曝露、比較、アウトカム、time zeroが明確な研究デザインへ変換します。観察データの強みを活かしながら、交絡、選択、測定、欠測によるバイアスを検討します。"
+    "text": "Clinical epidemiology\n日常診療で生じる問いを、対象集団、治療・曝露、比較、アウトカム、time zeroが明確な研究デザインへ変換します。観察データの強みを活かしながら、交絡、選択、測定、欠測によるバイアスを検討します。\n代表論文\n\nClassifying diarrhea in critically ill patients through various criteria: a cohort study — Journal of Intensive Care, 2025。重症患者の下痢を複数の基準で分類・評価。\nDevelopment and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers — Journal of General Internal Medicine, 2023。医療従事者の負担を測定する尺度の開発と初期検証。"
   },
   {
     "objectID": "research.html#critical-care-outcomes",
     "href": "research.html#critical-care-outcomes",
     "title": "Research",
     "section": "Critical care outcomes",
-    "text": "Critical care outcomes\n集中治療領域における短期転帰だけでなく、退院後の機能、生活の質、患者・家族にとって重要な長期転帰を扱います。競合イベントや追跡不能を含む、臨床的に意味のある解釈を重視します。"
+    "text": "Critical care outcomes\n集中治療領域における短期転帰だけでなく、退院後の機能、生活の質、患者・家族にとって重要な長期転帰を扱います。競合イベントや追跡不能を含む、臨床的に意味のある解釈を重視します。\n代表論文\n\nUnraveling important outcomes for elderly patients facing critical illness: a vignette-based survey — Intensive Care Medicine, 2025。高齢者が重症疾患に直面した際に重視するアウトカムを調査。\nAssociation between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study — Journal of Critical Care, 2024。ICU入室時の併存疾患と敗血症後の身体機能障害との関連を検討。"
   },
   {
     "objectID": "research.html#causal-inference",
     "href": "research.html#causal-inference",
     "title": "Research",
     "section": "Causal inference",
-    "text": "Causal inference\ntarget trial emulation、傾向スコア、重み付け、時間依存性交絡などを用い、推定したい効果と解析上の仮定を対応させます。感度分析を、結果を増やすためではなく結論の頑健性を評価するために用います。"
+    "text": "Causal inference\ntarget trial emulation、傾向スコア、重み付け、時間依存性交絡などを用い、推定したい効果と解析上の仮定を対応させます。感度分析を、結果を増やすためではなく結論の頑健性を評価するために用います。\n代表論文\n\nImpact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation — Journal of Intensive Care, 2026。ROX indexに基づく挿管方針をtarget trial emulationで評価。\nElderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation — Journal of the American Medical Directors Association, 2026。75〜84歳の健診受診方針と機能障害・死亡を評価。"
   },
   {
     "objectID": "research.html#ai-bias-fairness-and-transportability",
     "href": "research.html#ai-bias-fairness-and-transportability",
     "title": "Research",
     "section": "AI bias, fairness, and transportability",
-    "text": "AI bias, fairness, and transportability\n医療AIに含まれるバイアスと患者集団間の公平性を研究しています。予測性能を識別能だけで判断せず、キャリブレーション、臨床的有用性、サブグループごとの性能、施設間移転性を含めて評価します。とくに、検査頻度など医療提供の過程で生じる「観察プロセス」が、予測と公平性に及ぼす影響に注目しています。"
+    "text": "AI bias, fairness, and transportability\n医療AIに含まれるバイアスと患者集団間の公平性を研究しています。予測性能を識別能だけで判断せず、キャリブレーション、臨床的有用性、サブグループごとの性能、施設間移転性を含めて評価します。とくに、検査頻度など医療提供の過程で生じる「観察プロセス」が、予測と公平性に及ぼす影響に注目しています。\n関連論文\n\nArtificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation — Annals of Clinical Epidemiology, 2026。医療システムにおけるAIとデジタルトランスフォーメーションを論じた論文。"
   },
   {
     "objectID": "research.html#current-research-directions",
     "href": "research.html#current-research-directions",
     "title": "Research",
     "section": "Current research directions",
-    "text": "Current research directions\n\n予測指標に基づく挿管方針の因果的評価\n高齢者健診と要介護・死亡に関するtarget trial emulation\n重症患者における臨床的に妥当な下痢基準の開発\n医療AIのバイアス、公平性、施設間移転性\n患者・医療者中心アウトカムの測定と評価\n\n\n\n\n\n\n\nノートこのページの更新について\n\n\n\n進行中・公開済みの研究ごとに、概要、共同研究者、論文、コードへのリンクを追加できます。公開前に、守秘義務や研究参加者のプライバシーに関わる情報が含まれないことを確認します。"
+    "text": "Current research directions\n\n予測指標に基づく挿管方針の因果的評価\n高齢者健診と要介護・死亡に関するtarget trial emulation\n重症患者における臨床的に妥当な下痢基準の開発\n医療AIのバイアス、公平性、施設間移転性\n患者・医療者中心アウトカムの測定と評価\n\nその他の論文・業績を見る"
   },
   {
     "objectID": "projects.html",
@@ -98,11 +98,18 @@
     "text": "Selected activities\n\nExecutive Board Member, Japanese Society of Education for Physicians and Trainees in Intensive Care (JSEPTIC)\nAcademic Editor, PLOS Digital Health\nWorking-group member for the Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 and the ARDS Clinical Practice Guidelines 2021/2024\nEditorial lead for the 2026 sepsis issue of Intensivist"
   },
   {
-    "objectID": "cv.html#awards-and-research-support",
-    "href": "cv.html#awards-and-research-support",
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
     "title": "CV",
-    "section": "Awards and research support",
-    "text": "Awards and research support\n\nBest Abstract Award, Japanese Society of Intensive Care Medicine (2023, 2026)\nZOLL Foundation Research Grant (2026)\nTelecommunications Advancement Foundation Research Grant (2025)\nJSPS KAKENHI Grant-in-Aid for Early-Career Scientists (2024–2027)\nNaito Foundation Overseas Research Fellowship (awarded 2024)"
+    "section": "Awards",
+    "text": "Awards\n\n2026 — 第53回日本集中治療医学会学術集会 優秀演題賞（最終著者）\n2023 — 第50回日本集中治療医学会学術集会 優秀演題賞"
+  },
+  {
+    "objectID": "cv.html#research-funding",
+    "href": "cv.html#research-funding",
+    "title": "CV",
+    "section": "Research funding",
+    "text": "Research funding\n\nPrincipal investigator\n\n2026–2028 — ZOLL Foundation 研究助成\n研究代表者。助成額：US$49,000。\n2025年度 — 電気通信普及財団 研究調査助成\n研究代表者。助成額：300万円。\n2024–2027年度 — 日本学術振興会 科研費 若手研究\n研究代表者。研究課題番号：24K19496。助成額：312万円。\n\n\n\nCo-investigator\n\n2019–2024年度 — 日本学術振興会 科研費 基盤研究(C)\n研究分担者。\n\n\n\nOverseas research fellowship\n\n2024年度採択 — 内藤記念科学振興財団 海外研究留学助成金\nMITでの海外研究留学（2025–2027年）を支援。"
   },
   {
     "objectID": "cv.html#profiles",

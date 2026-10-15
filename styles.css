@@ -149,6 +149,10 @@ main.content {
   padding-right: 0;
 }
 
+.page-layout-full #title-block-header {
+  display: none;
+}
+
 main.content > h2 { margin-top: 3.5rem; }
 
 .publication-placeholder {

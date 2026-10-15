@@ -1,0 +1,79 @@
+---
+title: "CV"
+description: "Curriculum vitae"
+lang: en
+---
+
+<nav class="language-switch" aria-label="Language"><a href="../cv.html" lang="ja" hreflang="ja">日本語</a><span lang="en" aria-current="page">English</span></nav>
+
+
+## Ryohei Yamamoto (Kobayashi)
+
+**Ryohei Yamamoto (Kobayashi), MD, PhD**<br>
+Clinical epidemiology · Critical care · Causal inference · Medical AI
+
+## Current position
+
+- **2025–present** — Visiting Scientist, Laboratory for Computational Physiology, Massachusetts Institute of Technology
+- **2024–present** — Assistant Professor, Center for Innovative Research for Communities and Clinical Excellence, Fukushima Medical University
+- **2023–present** — Visiting Researcher, Clinical Epidemiology Group, Kyoto University Graduate School of Medicine
+- **2019–present** — Part-time Physician, Department of Intensive Care Medicine, Kameda Medical Center
+
+## Education and training
+
+- **2019–2023** — PhD, Clinical Epidemiology, Kyoto University Graduate School of Medicine
+- **2006–2012** — MD, Tokyo Medical and Dental University
+
+## Qualifications
+
+- Emergency Medicine Specialist, Japanese Association for Acute Medicine (2019)
+- Intensive Care Specialist, Japanese Society of Intensive Care Medicine (2021)
+- PhD in Medicine, Kyoto University (2023)
+- Certified Expert, Society for Clinical Epidemiology (2024)
+
+## Research interests
+
+- Clinical epidemiology
+- Critical care outcomes
+- Causal inference using observational data
+- Prediction model evaluation
+- Bias, fairness, and transportability of medical AI
+
+## Selected activities
+
+- Executive Board Member, Japanese Society of Education for Physicians and Trainees in Intensive Care (JSEPTIC)
+- Academic Editor, *PLOS Digital Health*
+- Working-group member for the Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 and the ARDS Clinical Practice Guidelines 2021/2024
+- Editorial lead for the 2026 sepsis issue of *Intensivist*
+
+## Awards
+
+- **2026** — Excellent Presentation Award, 53rd Annual Meeting of the Japanese Society of Intensive Care Medicine (last author)
+- **2023** — Excellent Presentation Award, 50th Annual Meeting of the Japanese Society of Intensive Care Medicine
+
+## Research funding
+
+### Principal investigator
+
+- **2026–2028 — ZOLL Foundation Research Grant**  
+  Principal investigator. Award amount: **US$49,000**.
+- **FY2025 — Telecommunications Advancement Foundation Research Grant**  
+  Principal investigator. Award amount: **JPY 3,000,000**.
+- **FY2024–2027 — JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists**  
+  Principal investigator. Grant number: **24K19496**. Award amount: **JPY 3,120,000**.
+
+### Co-investigator
+
+- **FY2019–2024 — JSPS KAKENHI, Grant-in-Aid for Scientific Research (C)**  
+  Co-investigator.
+
+### Overseas research fellowship
+
+- **Awarded FY2024 — Naito Foundation Overseas Research Fellowship**  
+  Support for research at MIT (2025–2027).
+
+## Profiles
+
+- [GitHub](https://github.com/ryohei-hey)
+- [ORCID](https://orcid.org/0000-0002-5144-6585)
+- [researchmap](https://researchmap.jp/yamamotoryohei)

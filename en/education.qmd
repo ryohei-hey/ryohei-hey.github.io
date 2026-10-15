@@ -1,0 +1,42 @@
+---
+title: "Education"
+description: "Public learning resources on clinical epidemiology, causal inference, and prediction models in R"
+lang: en
+---
+
+<nav class="language-switch" aria-label="Language"><a href="../education.html" lang="ja" hreflang="ja">日本語</a><span lang="en" aria-current="page">English</span></nav>
+
+
+Selected public tutorials with R code and worked examples for clinical research. These RPubs resources cover study design and applied analysis. The linked tutorials are primarily in Japanese.
+
+[Browse all RPubs resources](https://rpubs.com/Ryohei){.btn .btn-primary}
+
+## Causal inference & survival analysis
+
+### [Difference-in-differences (DiD) and event study](https://rpubs.com/Ryohei/1434914)
+
+A brief introduction to DiD and event study concepts for readers new to these methods.
+
+### [Time varying covariate in Cox regression](https://rpubs.com/Ryohei/822874)
+
+A tutorial on Cox regression with covariates that change over time, with a focus on immortal time bias and time-dependent analysis.
+
+## Clinical prediction models
+
+### [Sample size calculation for clinical prediction model development](https://rpubs.com/Ryohei/930254)
+
+An introduction to sample size calculations using the R package `pmsampsize`, for researchers planning prediction model development.
+
+### [Prediction model development and evaluation after multiple imputation](https://rpubs.com/Ryohei/930276)
+
+Missing-data imputation, model development, performance assessment, and validation with `mice` and `psfmi`, including how to pool results across imputed datasets.
+
+## Latent class analysis
+
+### [Latent class analysis: from missing-data imputation to reporting results](https://rpubs.com/Ryohei/1188880)
+
+Code examples using demonstration data, covering MissForest imputation, latent class analysis, fit indices, and the VLMR test.
+
+---
+
+These learning notes reflect the time at which they were written or updated. Check your R and package versions when using the code.

@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "研究テーマを、単なる手法の一覧ではなく「どの臨床的な問いに答えるか」を中心に整理しています。"
+    "text": "日本語English\n研究テーマを、単なる手法の一覧ではなく「どの臨床的な問いに答えるか」を中心に整理しています。"
   },
   {
     "objectID": "research.html#clinical-epidemiology",
@@ -46,14 +46,91 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。\nRを用いた解析の学習資料は Education にまとめています。\n\n\nCritical care outcomes\n重症患者の短期転帰だけでなく、患者中心アウトカムや退院後の生活まで見据えた研究。\nCritical care Patient-centered outcomes\n\n\nCausal Cutoff\nHFNC治療中の挿管時期など、生命維持治療の意思決定に用いる閾値を患者転帰に基づいて評価する研究。\nCritical care Causal inference\n\n\nAI transportability\n検査頻度などの観察プロセスが、医療AIの施設間移転性と公平性に与える影響の評価。\nMIMIC-IV eICU Fairness"
+    "text": "日本語English\n\n研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。\nRを用いた解析の学習資料は Education にまとめています。\n\n\nCritical care outcomes\n重症患者の短期転帰だけでなく、患者中心アウトカムや退院後の生活まで見据えた研究。\nCritical care Patient-centered outcomes\n\n\nCausal Cutoff\nHFNC治療中の挿管時期など、生命維持治療の意思決定に用いる閾値を患者転帰に基づいて評価する研究。\nCritical care Causal inference\n\n\nAI transportability\n検査頻度などの観察プロセスが、医療AIの施設間移転性と公平性に与える影響の評価。\nMIMIC-IV eICU Fairness"
+  },
+  {
+    "objectID": "en/research.html",
+    "href": "en/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "日本語English\nMy research is organized around clinical questions and the methods needed to answer them."
+  },
+  {
+    "objectID": "en/research.html#clinical-epidemiology",
+    "href": "en/research.html#clinical-epidemiology",
+    "title": "Research",
+    "section": "Clinical epidemiology",
+    "text": "Clinical epidemiology\nI translate questions from daily practice into study designs with explicit populations, treatments or exposures, comparators, outcomes, and time zero. I use observational data while examining confounding, selection, measurement, and missing-data biases.\nSelected publications\n\nClassifying diarrhea in critically ill patients through various criteria: a cohort study — Journal of Intensive Care, 2025. Classification and evaluation of diarrhea using multiple criteria in critically ill patients.\nDevelopment and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers — Journal of General Internal Medicine, 2023. Development and initial validation of a scale measuring the burden on healthcare workers."
+  },
+  {
+    "objectID": "en/research.html#critical-care-outcomes",
+    "href": "en/research.html#critical-care-outcomes",
+    "title": "Research",
+    "section": "Critical care outcomes",
+    "text": "Critical care outcomes\nI study short-term outcomes in critical care as well as post-discharge function, quality of life, and long-term outcomes that matter to patients and families. Clinical interpretation accounts for competing events and loss to follow-up.\nSelected publications\n\nUnraveling important outcomes for elderly patients facing critical illness: a vignette-based survey — Intensive Care Medicine, 2025. A survey of outcomes valued by older adults facing critical illness.\nAssociation between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study — Journal of Critical Care, 2024. Associations between comorbidities at ICU admission and physical impairment after sepsis."
+  },
+  {
+    "objectID": "en/research.html#causal-inference",
+    "href": "en/research.html#causal-inference",
+    "title": "Research",
+    "section": "Causal inference",
+    "text": "Causal inference\nI use target trial emulation, propensity scores, weighting, and approaches to time-varying confounding to align causal questions with analytic assumptions. Sensitivity analyses assess the robustness of conclusions.\nSelected publications\n\nImpact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation — Journal of Intensive Care, 2026. Evaluation of an ROX index-guided intubation strategy using target trial emulation.\nElderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation — Journal of the American Medical Directors Association, 2026. Evaluation of health checkup strategies and disability or death among adults aged 75–84."
+  },
+  {
+    "objectID": "en/research.html#ai-bias-fairness-and-transportability",
+    "href": "en/research.html#ai-bias-fairness-and-transportability",
+    "title": "Research",
+    "section": "AI bias, fairness, and transportability",
+    "text": "AI bias, fairness, and transportability\nI study bias in medical AI and fairness across patient populations. Model evaluation includes calibration, clinical utility, subgroup performance, and transportability, alongside discrimination. I am particularly interested in how observation processes, such as testing frequency, influence prediction and fairness.\nRelated publication\n\nArtificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation — Annals of Clinical Epidemiology, 2026. A discussion of medical AI and digital transformation in health systems."
+  },
+  {
+    "objectID": "en/research.html#current-research-directions",
+    "href": "en/research.html#current-research-directions",
+    "title": "Research",
+    "section": "Current research directions",
+    "text": "Current research directions\n\nCausal evaluation of intubation strategies guided by prediction scores\nTarget trial emulation of health checkups and disability or death in older adults\nDevelopment of clinically meaningful diarrhea criteria for critically ill patients\nBias, fairness, and transportability of medical AI\nMeasurement and evaluation of patient- and clinician-centered outcomes\n\nBrowse more publications"
+  },
+  {
+    "objectID": "en/projects.html",
+    "href": "en/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "日本語English\n\nOpen projects that support reproducible research, shared methods, and new clinical questions.\nR tutorials and learning resources are available on the Education page.\n\n\nCritical care outcomes\nResearch on short-term critical care outcomes, patient-centered outcomes, and life after hospital discharge.\nCritical care Patient-centered outcomes\n\n\nCausal Cutoff\nEvaluating thresholds for life-sustaining treatment decisions, including intubation during HFNC therapy, in terms of patient outcomes.\nCritical care Causal inference\n\n\nAI transportability\nEvaluating how observation processes, such as testing frequency, affect the transportability and fairness of medical AI.\nMIMIC-IV eICU Fairness"
+  },
+  {
+    "objectID": "en/education.html",
+    "href": "en/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "日本語English\nSelected public tutorials with R code and worked examples for clinical research. These RPubs resources cover study design and applied analysis. The linked tutorials are primarily in Japanese.\nBrowse all RPubs resources"
+  },
+  {
+    "objectID": "en/education.html#causal-inference-survival-analysis",
+    "href": "en/education.html#causal-inference-survival-analysis",
+    "title": "Education",
+    "section": "Causal inference & survival analysis",
+    "text": "Causal inference & survival analysis\n\nDifference-in-differences (DiD) and event study\nA brief introduction to DiD and event study concepts for readers new to these methods.\n\n\nTime varying covariate in Cox regression\nA tutorial on Cox regression with covariates that change over time, with a focus on immortal time bias and time-dependent analysis."
+  },
+  {
+    "objectID": "en/education.html#clinical-prediction-models",
+    "href": "en/education.html#clinical-prediction-models",
+    "title": "Education",
+    "section": "Clinical prediction models",
+    "text": "Clinical prediction models\n\nSample size calculation for clinical prediction model development\nAn introduction to sample size calculations using the R package pmsampsize, for researchers planning prediction model development.\n\n\nPrediction model development and evaluation after multiple imputation\nMissing-data imputation, model development, performance assessment, and validation with mice and psfmi, including how to pool results across imputed datasets."
+  },
+  {
+    "objectID": "en/education.html#latent-class-analysis",
+    "href": "en/education.html#latent-class-analysis",
+    "title": "Education",
+    "section": "Latent class analysis",
+    "text": "Latent class analysis\n\nLatent class analysis: from missing-data imputation to reporting results\nCode examples using demonstration data, covering MissForest imputation, latent class analysis, fit indices, and the VLMR test.\n\nThese learning notes reflect the time at which they were written or updated. Check your R and package versions when using the code."
   },
   {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "臨床研究の方法を、Rのコードや解析例とともに学ぶための公開資料です。RPubsの資料から、研究デザインと解析の実践に役立つものを選びました。\nRPubsの資料一覧を見る"
+    "text": "日本語English\n臨床研究の方法を、Rのコードや解析例とともに学ぶための公開資料です。RPubsの資料から、研究デザインと解析の実践に役立つものを選びました。\nRPubsの資料一覧を見る"
   },
   {
     "objectID": "education.html#causal-inference-survival-analysis",
@@ -81,14 +158,14 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Ryohei Yamamoto (Kobayashi), MD, PhD Clinical epidemiology · Critical care · Causal inference · Medical AI"
+    "text": "日本語English"
   },
   {
     "objectID": "cv.html#ryohei-yamamoto-kobayashi",
     "href": "cv.html#ryohei-yamamoto-kobayashi",
     "title": "CV",
-    "section": "",
-    "text": "Ryohei Yamamoto (Kobayashi), MD, PhD Clinical epidemiology · Critical care · Causal inference · Medical AI"
+    "section": "Ryohei Yamamoto (Kobayashi)",
+    "text": "Ryohei Yamamoto (Kobayashi)\nRyohei Yamamoto (Kobayashi), MD, PhD Clinical epidemiology · Critical care · Causal inference · Medical AI"
   },
   {
     "objectID": "cv.html#current-position",
@@ -147,11 +224,151 @@
     "text": "Profiles\n\nGitHub\nORCID\nresearchmap"
   },
   {
+    "objectID": "en/cv.html",
+    "href": "en/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "日本語English"
+  },
+  {
+    "objectID": "en/cv.html#ryohei-yamamoto-kobayashi",
+    "href": "en/cv.html#ryohei-yamamoto-kobayashi",
+    "title": "CV",
+    "section": "Ryohei Yamamoto (Kobayashi)",
+    "text": "Ryohei Yamamoto (Kobayashi)\nRyohei Yamamoto (Kobayashi), MD, PhD Clinical epidemiology · Critical care · Causal inference · Medical AI"
+  },
+  {
+    "objectID": "en/cv.html#current-position",
+    "href": "en/cv.html#current-position",
+    "title": "CV",
+    "section": "Current position",
+    "text": "Current position\n\n2025–present — Visiting Scientist, Laboratory for Computational Physiology, Massachusetts Institute of Technology\n2024–present — Assistant Professor, Center for Innovative Research for Communities and Clinical Excellence, Fukushima Medical University\n2023–present — Visiting Researcher, Clinical Epidemiology Group, Kyoto University Graduate School of Medicine\n2019–present — Part-time Physician, Department of Intensive Care Medicine, Kameda Medical Center"
+  },
+  {
+    "objectID": "en/cv.html#education-and-training",
+    "href": "en/cv.html#education-and-training",
+    "title": "CV",
+    "section": "Education and training",
+    "text": "Education and training\n\n2019–2023 — PhD, Clinical Epidemiology, Kyoto University Graduate School of Medicine\n2006–2012 — MD, Tokyo Medical and Dental University"
+  },
+  {
+    "objectID": "en/cv.html#qualifications",
+    "href": "en/cv.html#qualifications",
+    "title": "CV",
+    "section": "Qualifications",
+    "text": "Qualifications\n\nEmergency Medicine Specialist, Japanese Association for Acute Medicine (2019)\nIntensive Care Specialist, Japanese Society of Intensive Care Medicine (2021)\nPhD in Medicine, Kyoto University (2023)\nCertified Expert, Society for Clinical Epidemiology (2024)"
+  },
+  {
+    "objectID": "en/cv.html#research-interests",
+    "href": "en/cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\n\nClinical epidemiology\nCritical care outcomes\nCausal inference using observational data\nPrediction model evaluation\nBias, fairness, and transportability of medical AI"
+  },
+  {
+    "objectID": "en/cv.html#selected-activities",
+    "href": "en/cv.html#selected-activities",
+    "title": "CV",
+    "section": "Selected activities",
+    "text": "Selected activities\n\nExecutive Board Member, Japanese Society of Education for Physicians and Trainees in Intensive Care (JSEPTIC)\nAcademic Editor, PLOS Digital Health\nWorking-group member for the Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 and the ARDS Clinical Practice Guidelines 2021/2024\nEditorial lead for the 2026 sepsis issue of Intensivist"
+  },
+  {
+    "objectID": "en/cv.html#awards",
+    "href": "en/cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\n2026 — Excellent Presentation Award, 53rd Annual Meeting of the Japanese Society of Intensive Care Medicine (last author)\n2023 — Excellent Presentation Award, 50th Annual Meeting of the Japanese Society of Intensive Care Medicine"
+  },
+  {
+    "objectID": "en/cv.html#research-funding",
+    "href": "en/cv.html#research-funding",
+    "title": "CV",
+    "section": "Research funding",
+    "text": "Research funding\n\nPrincipal investigator\n\n2026–2028 — ZOLL Foundation Research Grant\nPrincipal investigator. Award amount: US$49,000.\nFY2025 — Telecommunications Advancement Foundation Research Grant\nPrincipal investigator. Award amount: JPY 3,000,000.\nFY2024–2027 — JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists\nPrincipal investigator. Grant number: 24K19496. Award amount: JPY 3,120,000.\n\n\n\nCo-investigator\n\nFY2019–2024 — JSPS KAKENHI, Grant-in-Aid for Scientific Research (C)\nCo-investigator.\n\n\n\nOverseas research fellowship\n\nAwarded FY2024 — Naito Foundation Overseas Research Fellowship\nSupport for research at MIT (2025–2027)."
+  },
+  {
+    "objectID": "en/cv.html#profiles",
+    "href": "en/cv.html#profiles",
+    "title": "CV",
+    "section": "Profiles",
+    "text": "Profiles\n\nGitHub\nORCID\nresearchmap"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Ryohei Yamamoto (Kobayashi)",
+    "section": "",
+    "text": "日本語English"
+  },
+  {
+    "objectID": "en/index.html#about",
+    "href": "en/index.html#about",
+    "title": "Ryohei Yamamoto (Kobayashi)",
+    "section": "About",
+    "text": "About\nI am a board-certified specialist in emergency and intensive care medicine, hold a PhD in medicine, and am a certified expert of the Society for Clinical Epidemiology. Through study design, observational data analysis, and prediction model evaluation, I aim to clarify what findings mean, for whom, and under which conditions.\nThis website brings together my research, publications, open projects, and educational resources."
+  },
+  {
+    "objectID": "en/index.html#selected-work",
+    "href": "en/index.html#selected-work",
+    "title": "Ryohei Yamamoto (Kobayashi)",
+    "section": "Selected work",
+    "text": "Selected work\n\n\nRESEARCH\n\nAnswering questions with clinical data\nI make study design, time zero, confounding, and selection bias explicit to produce clinically interpretable estimates.\nResearch →\n\n\n\nOPEN WORK\n\nReproducible analyses and tools\nExplore research projects and analysis code, alongside public R tutorials on causal inference and prediction models.\nProjects →\nEducation →\n\n\n\nOUTPUTS\n\nPublications and resources\nBrowse first-author and collaborative publications, published protocols, and Japanese articles and commentary.\nPublications →\nGoogle Scholar →"
+  },
+  {
+    "objectID": "en/index.html#collaborate",
+    "href": "en/index.html#collaborate",
+    "title": "Ryohei Yamamoto (Kobayashi)",
+    "section": "Collaborate",
+    "text": "Collaborate\nFor research collaboration, methodological consultation, or educational activities, please contact me through GitHub or my institutional contact channels.\nGitHub profile"
+  },
+  {
+    "objectID": "en/publications.html",
+    "href": "en/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "日本語English\nSelected publications, reviews, published protocols, and Japanese articles and commentary.\nView all publications on Google Scholar"
+  },
+  {
+    "objectID": "en/publications.html#first-author-publications",
+    "href": "en/publications.html#first-author-publications",
+    "title": "Publications",
+    "section": "First-author publications",
+    "text": "First-author publications\nI publish under the name Ryohei Yamamoto.\n\nYamamoto R, Yamazaki H, Nakagawa H, et al. Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation. Journal of the American Medical Directors Association. 2026;27(11):106473. Scholar\nYamamoto R, Tohyama T, Han A, et al. Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation. Journal of Intensive Care. 2026;14(1):96. Scholar\nYamamoto R, Yamazaki H, Koroki T, et al. Classifying diarrhea in critically ill patients through various criteria: a cohort study. Journal of Intensive Care. 2025;13(1):55. Scholar\nYamamoto R, Yamazaki H, Nakagawa H, et al. Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey. Intensive Care Medicine. 2025;51(6):1189–1191. Scholar\nYamamoto R, Yamazaki H, Yamamoto S, et al. Dose-response relationship between diarrhea quantity and mortality in critical care patients: A retrospective cohort study. PLOS ONE. 2023;18(2):e0280806. Scholar\nYamamoto R, Yamazaki H, Kobara S, et al. Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers. Journal of General Internal Medicine. 2023;38(5):1239–1247. Scholar\nYamamoto R, Okazaki SR, Fujita Y, et al. Usefulness of low tidal volume ventilation strategy for patients with acute respiratory distress syndrome: a systematic review and meta-analysis. Scientific Reports. 2022;12(1):9331. Scholar\nYamamoto R, Sugimura S, Kikuyama K, et al. Efficacy of Higher Positive End-Expiratory Pressure Ventilation Strategy in Patients With Acute Respiratory Distress Syndrome: A Systematic Review and Meta-Analysis. Cureus. 2022;14(7):e26957. Scholar"
+  },
+  {
+    "objectID": "en/publications.html#collaborative-research-reviews",
+    "href": "en/publications.html#collaborative-research-reviews",
+    "title": "Publications",
+    "section": "Collaborative research & reviews",
+    "text": "Collaborative research & reviews\n\nKotani Y, Karumai T, Yamamoto R, Hayashi Y. Prognostic performance of the ratio of mean arterial pressure to norepinephrine equivalent dose in critically ill hypotensive patients: A single-center retrospective cohort study. Journal of Critical Care. 94:155560. 2026.\nImai R, Yamamoto R, Niitsu T, et al. Comparison of oxygenation targets in critically ill adults: a systematic review and network meta-analysis of randomized controlled trials. American Journal of Respiratory and Critical Care Medicine. 212(5):911–920. 2026.\nAtun R, Yamamoto R, Yamazaki H, Fukuhara S. Artificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation. Annals of Clinical Epidemiology. 27009. 2026.\nSuzuki S, Suzuki T, Kamitani T, Yamamoto R. Effect of educational intervention on polypharmacy management among community pharmacists: An interrupted time series analysis. Annals of Clinical Epidemiology. 8(1):18–27. 2026.\nNiitsu T, Fukushima K, Komukai S, Yamamoto R, et al. Effectiveness of antifibrotic treatment in real-world patients with progressive pulmonary fibrosis. Respiratory Medicine. 108347. 2025.\nShime N, Nakada T, Yatabe K, et al. The Japanese clinical practice guidelines for management of sepsis and septic shock 2024. Journal of Intensive Care. 13(1):15. 2025.\nNorisue Y, Yamamoto R, Yamakawa H, et al. Incidence of diffuse parenchymal lung disease in patients meeting the Berlin definition of ARDS on mechanical ventilation. ERJ Open Research. 2025.\nMatsuki F, Suzuki S, Hirose T, et al. Prescription and application adequacy of topical corticosteroids based on the finger-tip unit method in adult patients with atopic dermatitis: A cross-sectional study. Journal of General and Family Medicine. 1–8. 2025.\nMurata M, Shimizu S, Yamamoto R, et al. Steroid therapy for patients with septic shock: a multicenter observational study conducted in Japan. Internal Medicine. 63(24):3307–3315. 2024.\nKobara S, Yamamoto R, Rad MG, et al. Association between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study. Journal of Critical Care. 83:154833. 2024.\nIshida T, Iwasaki Y, Yamamoto R, et al. Evaluation of the Impact of a Less-Invasive Trunk and Pelvic Trauma Protocol on Mortality in Patients with Severe Injury by Interrupted Time-Series Analysis. Medicina. 60(8):1338. 2024.\nKarumai T, Kotani Y, Yamamoto R, Tonai M, Hayashi Y. Septic coagulopathy: pathophysiology, diagnosis, and therapeutic strategies. Current Infectious Disease Reports. 26(3):91–106. 2024.\nMorishita S, Yamamoto R, Yamada Y. Potential Biases in Critical Care Observational Studies: Comments on an Observational Study on Association Between Family Presence and Delirium in Critically Ill Patients. Critical Care Medicine. 51(5):e124–e125. 2023.\nYasuda H, Rickard CM, Marsh N, Yamamoto R, et al. Risk factors for peripheral intravascular catheter-related phlebitis in critically ill patients: analysis of 3429 catheters from 23 Japanese intensive care units. Annals of Intensive Care. 12(1):33. 2022.\nHongo T, Yamamoto R, Liu K, et al. Association between timing of speech and language therapy initiation and outcomes among post-extubation dysphagia patients: a multicenter retrospective cohort study. Critical Care. 26(1):98. 2022.\nOkabayashi S, Yamazaki H, Yamamoto R, et al. Certolizumab pegol for maintenance of medically induced remission in Crohn’s disease. Cochrane Database of Systematic Reviews. 2022.\nYasuda H, Yamamoto R, Hayashi Y, et al. Occurrence and incidence rate of peripheral intravascular catheter-related phlebitis and complications in critically ill patients: a prospective cohort study (AMOR-VENUS study). Journal of Intensive Care. 9(1):3. 2021.\nYasuda H, Kondo N, Yamamoto R, et al. Monitoring of gastric residual volume during enteral nutrition. Cochrane Database of Systematic Reviews. 2021."
+  },
+  {
+    "objectID": "en/publications.html#published-protocols",
+    "href": "en/publications.html#published-protocols",
+    "title": "Publications",
+    "section": "Published protocols",
+    "text": "Published protocols\n\nShimoyama K, Yamamoto R, Kasugai D, et al. Protocol and Statistical Analysis Plan for Efficacy of Local Anesthesia to the Trachea via a Subglottic Secretion Drainage Port in Orally Intubated Critically Ill Patients: A Single-Center Cluster-Crossover Phase 2 Randomized Controlled Trial. CHEST Critical Care. 100280. 2026.\nKasugai D, Yamamoto R, Kobayashi H, et al. Japan Intensive Care Consortium: Nationwide Effort for Extracorporeal Membrane Oxygenation Care Optimization and Excellence Study: Study Protocol. Annals of Clinical Epidemiology. 7(4):128–136. 2025."
+  },
+  {
+    "objectID": "en/publications.html#japanese-articles-commentary",
+    "href": "en/publications.html#japanese-articles-commentary",
+    "title": "Publications",
+    "section": "Japanese articles & commentary",
+    "text": "Japanese articles & commentary\nThe following citations retain their original Japanese titles and author names.\n\n小林絵梨，山本良平． 本当にNPPV管理中に鎮静薬を使ってよいのだろうか？：現時点でルーチンに使用すべきでない. INTENSIVIST. 17(4):554–557. 2025.\n廣瀬隆，山本良平，鈴木すみれ，ほか． H. pylori 1次除菌中における喫煙・飲酒・高脂肪食摂取の生活習慣：記述研究. 日本プライマリ・ケア連合学会誌. 48(1):2–10. 2025.\n鈴木すみれ，山本良平，廣瀬隆，ほか． 薬局薬剤師に対する医療従事者からの問い合わせに関する負担：記述的横断研究. 医薬品情報学. 26(2):65–71. 2024.\n山本良平． 集中治療領域における臨床研究：これまでとこれから. 呼吸器内科. 43(5):560–565. 2023.\n山本良平． 腸管管理：便秘や下痢は予防すべきか？. INTENSIVIST. 15(1):144–150. 2023.\n上田祐菜，山本良平，軽米寿之． 医療者間での重症患者の下痢の定義の違い：横断研究. 日本集中治療医学会雑誌. 29(5):547–551. 2022.\n山本良平． ICU患者の長期予後の予測：予測モデルは長期予後を予測できるか？臨床で使用できるか？. INTENSIVIST. 14(1):31–44. 2022.\n山本良平． ICUにおける臨床研究の今と未来：ICUにおける臨床研究で今知っておくべきこと. INTENSIVIST. 12(4):783–797. 2020.\n山本良平． 臨床予測ルールの使い方，予測指標論文の読み方. レジデントノート. 21(7):1203–1217. 2019."
+  },
+  {
+    "objectID": "en/publications.html#full-publication-list",
+    "href": "en/publications.html#full-publication-list",
+    "title": "Publications",
+    "section": "Full publication list",
+    "text": "Full publication list\nFor other publications and the latest listings, visit Google Scholar, ORCID, or researchmap.\nThis is a selection of publications. Bibliographic details for the added records follow Google Scholar listings, checked on October 14, 2026."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ryohei Yamamoto (Kobayashi)",
     "section": "",
-    "text": "Ryohei Yamamoto (Kobayashi)\n\n\n\n\n\nCLINICAL EPIDEMIOLOGY · CRITICAL CARE · CAUSAL INFERENCE\n\n\n\nRyohei Yamamoto (Kobayashi), MD, PhD 救急・集中治療の臨床経験と臨床疫学を基盤に、日常診療で感じる違和感を、検証可能な問いへ変えていきます。現在はMIT Laboratory for Computational PhysiologyのVisiting Scientistとして、医療AIのバイアスと公平性、予測モデルの施設間移転性、リアルワールドデータを用いた因果推論に取り組んでいます。\n研究テーマを見る GitHub"
+    "text": "日本語English"
   },
   {
     "objectID": "index.html#about",
@@ -179,7 +396,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "論文・総説、公開プロトコル、和文論文・解説の主な業績を掲載しています。\nGoogle Scholarで全業績を見る"
+    "text": "日本語English\n論文・総説、公開プロトコル、和文論文・解説の主な業績を掲載しています。\nGoogle Scholarで全業績を見る"
   },
   {
     "objectID": "publications.html#first-author-publications",

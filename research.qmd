@@ -3,6 +3,9 @@ title: "Research"
 description: "Research themes in clinical epidemiology, critical care, and causal inference"
 ---
 
+<nav class="language-switch" aria-label="言語切替"><span lang="ja" aria-current="page">日本語</span><a href="en/research.html" lang="en" hreflang="en">English</a></nav>
+
+
 研究テーマを、単なる手法の一覧ではなく「どの臨床的な問いに答えるか」を中心に整理しています。
 
 ## Clinical epidemiology

@@ -3,6 +3,9 @@ title: "Publications"
 description: "Publications and scholarly outputs"
 ---
 
+<nav class="language-switch" aria-label="言語切替"><span lang="ja" aria-current="page">日本語</span><a href="en/publications.html" lang="en" hreflang="en">English</a></nav>
+
+
 論文・総説、公開プロトコル、和文論文・解説の主な業績を掲載しています。
 
 [Google Scholarで全業績を見る](https://scholar.google.com/citations?hl=en&user=1n3Y7mQAAAAJ&view_op=list_works&sortby=pubdate){.btn .btn-primary}

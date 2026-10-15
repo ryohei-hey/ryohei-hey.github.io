@@ -1,0 +1,38 @@
+---
+title: "Projects"
+description: "Open projects, tools, and reproducible research resources"
+lang: en
+---
+
+<nav class="language-switch" aria-label="Language"><a href="../projects.html" lang="ja" hreflang="ja">日本語</a><span lang="en" aria-current="page">English</span></nav>
+
+
+Open projects that support reproducible research, shared methods, and new clinical questions.
+
+R tutorials and learning resources are available on the [Education](education.qmd) page.
+
+::: {.project-grid}
+::: {.project-card}
+### Critical care outcomes
+
+Research on short-term critical care outcomes, patient-centered outcomes, and life after hospital discharge.
+
+`Critical care` `Patient-centered outcomes`
+:::
+
+::: {.project-card}
+### Causal Cutoff
+
+Evaluating thresholds for life-sustaining treatment decisions, including intubation during HFNC therapy, in terms of patient outcomes.
+
+`Critical care` `Causal inference`
+:::
+
+::: {.project-card}
+### AI transportability
+
+Evaluating how observation processes, such as testing frequency, affect the transportability and fairness of medical AI.
+
+`MIMIC-IV` `eICU` `Fairness`
+:::
+:::

@@ -1,0 +1,101 @@
+---
+title: "Ryohei Yamamoto (Kobayashi)"
+pagetitle: "Ryohei Yamamoto (Kobayashi) | Clinical Epidemiology"
+description: "Clinical epidemiology, critical care, and causal inference"
+page-layout: full
+lang: en
+---
+
+<nav class="language-switch" aria-label="Language"><a href="../index.html" lang="ja" hreflang="ja">日本語</a><span lang="en" aria-current="page">English</span></nav>
+
+
+::: {.hero}
+::: {.hero-photo}
+![Ryohei Yamamoto (Kobayashi)](../assets/profile.jpeg){.profile-photo}
+:::
+
+::: {.hero-copy}
+<p class="eyebrow">CLINICAL EPIDEMIOLOGY · CRITICAL CARE · CAUSAL INFERENCE</p>
+
+# Turning “That doesn’t seem right” into evidence
+
+**Ryohei Yamamoto (Kobayashi), MD, PhD**<br>
+I draw on clinical experience in emergency and intensive care medicine and training in clinical epidemiology to turn questions from everyday practice into testable research. As a Visiting Scientist at the MIT Laboratory for Computational Physiology, I study bias and fairness in medical AI, the transportability of prediction models, and causal inference using real-world data.
+
+[Explore my research](research.qmd){.btn .btn-primary} [GitHub](https://github.com/ryohei-hey){.btn .btn-outline-dark}
+:::
+:::
+
+::: {.home-grid}
+::: {.home-intro}
+## About
+
+I am a board-certified specialist in emergency and intensive care medicine, hold a PhD in medicine, and am a certified expert of the Society for Clinical Epidemiology. Through study design, observational data analysis, and prediction model evaluation, I aim to clarify what findings mean, for whom, and under which conditions.
+
+This website brings together my research, publications, open projects, and educational resources.
+:::
+
+::: {.principles}
+### Focus
+
+**Clinical epidemiology**  
+I translate clinical questions into testable research questions and well-defined estimands.
+
+**Critical care**  
+I study treatment in critical care and long-term, patient-centered outcomes.
+
+**Causal inference**  
+I emphasize assumptions, limitations, and reproducibility in causal inference from observational data.
+
+**AI bias & fairness**<br>
+I examine whether medical AI produces less equitable predictions across hospitals and patient populations.
+:::
+:::
+
+::: {.section-band}
+## Selected work
+
+::: {.cards}
+::: {.work-card}
+<span class="card-kicker">RESEARCH</span>
+
+### Answering questions with clinical data
+
+I make study design, time zero, confounding, and selection bias explicit to produce clinically interpretable estimates.
+
+[Research →](research.qmd)
+:::
+
+::: {.work-card}
+<span class="card-kicker">OPEN WORK</span>
+
+### Reproducible analyses and tools
+
+Explore research projects and analysis code, alongside public R tutorials on causal inference and prediction models.
+
+[Projects →](projects.qmd)
+
+[Education →](education.qmd)
+:::
+
+::: {.work-card}
+<span class="card-kicker">OUTPUTS</span>
+
+### Publications and resources
+
+Browse first-author and collaborative publications, published protocols, and Japanese articles and commentary.
+
+[Publications →](publications.qmd)
+
+[Google Scholar →](https://scholar.google.com/citations?hl=en&user=1n3Y7mQAAAAJ&view_op=list_works&sortby=pubdate)
+:::
+:::
+:::
+
+::: {.contact-strip}
+## Collaborate
+
+For research collaboration, methodological consultation, or educational activities, please contact me through GitHub or my institutional contact channels.
+
+[GitHub profile](https://github.com/ryohei-hey){.btn .btn-light}
+:::

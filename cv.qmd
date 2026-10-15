@@ -3,6 +3,9 @@ title: "CV"
 description: "Curriculum vitae"
 ---
 
+<nav class="language-switch" aria-label="言語切替"><span lang="ja" aria-current="page">日本語</span><a href="en/cv.html" lang="en" hreflang="en">English</a></nav>
+
+
 ## Ryohei Yamamoto (Kobayashi)
 
 **Ryohei Yamamoto (Kobayashi), MD, PhD**<br>

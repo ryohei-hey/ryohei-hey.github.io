@@ -3,6 +3,9 @@ title: "Education"
 description: "Rで学ぶ臨床疫学・因果推論・予測モデルの公開学習資料"
 ---
 
+<nav class="language-switch" aria-label="言語切替"><span lang="ja" aria-current="page">日本語</span><a href="en/education.html" lang="en" hreflang="en">English</a></nav>
+
+
 臨床研究の方法を、Rのコードや解析例とともに学ぶための公開資料です。RPubsの資料から、研究デザインと解析の実践に役立つものを選びました。
 
 [RPubsの資料一覧を見る](https://rpubs.com/Ryohei){.btn .btn-primary}

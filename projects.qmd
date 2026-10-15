@@ -3,6 +3,9 @@ title: "Projects"
 description: "Open projects, tools, and reproducible research resources"
 ---
 
+<nav class="language-switch" aria-label="言語切替"><span lang="ja" aria-current="page">日本語</span><a href="en/projects.html" lang="en" hreflang="en">English</a></nav>
+
+
 研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。
 
 Rを用いた解析の学習資料は [Education](education.qmd) にまとめています。

@@ -1,0 +1,55 @@
+---
+title: "Research"
+description: "Research themes in clinical epidemiology, critical care, and causal inference"
+lang: en
+---
+
+<nav class="language-switch" aria-label="Language"><a href="../research.html" lang="ja" hreflang="ja">日本語</a><span lang="en" aria-current="page">English</span></nav>
+
+
+My research is organized around clinical questions and the methods needed to answer them.
+
+## Clinical epidemiology
+
+I translate questions from daily practice into study designs with explicit populations, treatments or exposures, comparators, outcomes, and time zero. I use observational data while examining confounding, selection, measurement, and missing-data biases.
+
+Selected publications
+
+- [Classifying diarrhea in critically ill patients through various criteria: a cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:r0BpntZqJG4C) — *Journal of Intensive Care*, 2025. Classification and evaluation of diarrhea using multiple criteria in critically ill patients.
+- [Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:3fE2CSJIrl8C) — *Journal of General Internal Medicine*, 2023. Development and initial validation of a scale measuring the burden on healthcare workers.
+
+## Critical care outcomes
+
+I study short-term outcomes in critical care as well as post-discharge function, quality of life, and long-term outcomes that matter to patients and families. Clinical interpretation accounts for competing events and loss to follow-up.
+
+Selected publications
+
+- [Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:RHpTSmoSYBkC) — *Intensive Care Medicine*, 2025. A survey of outcomes valued by older adults facing critical illness.
+- [Association between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:QIV2ME_5wuYC) — *Journal of Critical Care*, 2024. Associations between comorbidities at ICU admission and physical impairment after sepsis.
+
+## Causal inference
+
+I use target trial emulation, propensity scores, weighting, and approaches to time-varying confounding to align causal questions with analytic assumptions. Sensitivity analyses assess the robustness of conclusions.
+
+Selected publications
+
+- [Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:BqipwSGYUEgC) — *Journal of Intensive Care*, 2026. Evaluation of an ROX index-guided intubation strategy using target trial emulation.
+- [Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:GnPB-g6toBAC) — *Journal of the American Medical Directors Association*, 2026. Evaluation of health checkup strategies and disability or death among adults aged 75–84.
+
+## AI bias, fairness, and transportability
+
+I study bias in medical AI and fairness across patient populations. Model evaluation includes calibration, clinical utility, subgroup performance, and transportability, alongside discrimination. I am particularly interested in how observation processes, such as testing frequency, influence prediction and fairness.
+
+Related publication
+
+- [Artificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:NMxIlDl6LWMC) — *Annals of Clinical Epidemiology*, 2026. A discussion of medical AI and digital transformation in health systems.
+
+## Current research directions
+
+- Causal evaluation of intubation strategies guided by prediction scores
+- Target trial emulation of health checkups and disability or death in older adults
+- Development of clinically meaningful diarrhea criteria for critically ill patients
+- Bias, fairness, and transportability of medical AI
+- Measurement and evaluation of patient- and clinician-centered outcomes
+
+[Browse more publications](publications.qmd){.btn .btn-outline-dark}

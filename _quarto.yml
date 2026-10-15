@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - language.js
 
 website:
   title: "Ryohei Yamamoto (Kobayashi)"
@@ -36,7 +38,10 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles-v4.css
+    css:
+      - styles-v4.css
+      - language.css
+    include-after-body: language-footer.html
     toc: false
     smooth-scroll: true
     link-external-newwindow: true

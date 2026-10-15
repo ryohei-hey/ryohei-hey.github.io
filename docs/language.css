@@ -1,0 +1,26 @@
+.language-switch {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: .4rem;
+  margin: 0 0 1.25rem;
+  font-size: .85rem;
+}
+.language-switch a, .language-switch span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: .35rem .85rem;
+  border-radius: 6px;
+}
+.language-switch [aria-current="page"] {
+  background: var(--soft);
+  color: var(--ink);
+  font-weight: 650;
+}
+.language-switch a:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+.page-layout-full .language-switch { max-width: 1080px; margin: .75rem auto 0; padding: 0 2rem; }
+@media (max-width: 600px) {
+  .page-layout-full .language-switch { padding: 0 1.25rem; }
+}

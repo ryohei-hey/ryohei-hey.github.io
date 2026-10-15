@@ -31,22 +31,22 @@ a:hover { color: var(--green-dark); }
 .navbar-brand { font-size: 1.05rem; }
 
 .hero {
-  min-height: 68vh;
+  min-height: 0;
   display: grid;
-  grid-template-columns: minmax(180px, 0.72fr) minmax(0, 2fr);
+  grid-template-columns: 220px minmax(0, 1fr);
   align-items: center;
-  gap: clamp(2rem, 7vw, 7rem);
-  max-width: 1180px;
+  gap: 3rem;
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 6rem 2rem 5rem;
+  padding: 3.5rem 2rem;
 }
 
 .hero-photo {
-  width: min(260px, 100%);
+  width: min(220px, 100%);
   aspect-ratio: 1;
   border-radius: 50%;
   overflow: hidden;
-  box-shadow: 0 24px 70px rgba(18, 63, 55, .20);
+  box-shadow: 0 10px 30px rgba(18, 63, 55, .10);
   border: 5px solid rgba(255, 255, 255, .9);
   background: var(--soft);
 }
@@ -68,15 +68,16 @@ a:hover { color: var(--green-dark); }
 
 .hero-copy h1 {
   max-width: 850px;
-  font-size: clamp(2.45rem, 5.1vw, 5.15rem);
-  line-height: 1.15;
-  margin: .5rem 0 1.5rem;
+  font-size: clamp(1.4rem, 2.1vw, 1.85rem);
+  line-height: 1.6;
+  margin: .5rem 0 1.25rem;
+  text-wrap: balance;
 }
 
-.hero-copy > p:not(.eyebrow) {
+.hero-copy p:not(.eyebrow) {
   max-width: 760px;
   color: var(--muted);
-  font-size: clamp(1.05rem, 1.55vw, 1.28rem);
+  font-size: 1rem;
 }
 
 .eyebrow, .card-kicker {
@@ -91,26 +92,28 @@ a:hover { color: var(--green-dark); }
 .btn-primary:hover { background: var(--green-dark); border-color: var(--green-dark); }
 
 .home-grid {
-  max-width: 1050px;
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 5rem 2rem;
+  padding: 3rem 2rem;
   display: grid;
-  grid-template-columns: 1.5fr 1fr;
-  gap: 6rem;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 3rem;
 }
 
-.home-grid h2, .section-band h2, .contact-strip h2 { font-size: clamp(2rem, 3vw, 3rem); }
+.home-grid h2, .home-grid h3, .section-band h2, .contact-strip h2 { font-size: 1.45rem; margin-top: 0; border: 0; padding-bottom: 0; }
 .principles { border-left: 1px solid var(--line); padding-left: 2rem; }
 .principles p { color: var(--muted); }
 
 .section-band {
   background: var(--soft);
-  padding: 5rem clamp(2rem, 6vw, 6rem);
+  padding: 3rem 2rem;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 .cards, .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1.25rem;
   margin-top: 2rem;
 }
@@ -118,8 +121,8 @@ a:hover { color: var(--green-dark); }
 .work-card, .project-card {
   background: var(--paper);
   border: 1px solid var(--line);
-  border-radius: 18px;
-  padding: 2rem;
+  border-radius: 12px;
+  padding: 1.5rem;
   transition: transform .2s ease, box-shadow .2s ease;
 }
 
@@ -131,7 +134,9 @@ a:hover { color: var(--green-dark); }
 .contact-strip {
   color: white;
   background: var(--green-dark);
-  padding: 5rem clamp(2rem, 6vw, 6rem);
+  padding: 2.5rem 2rem;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 .contact-strip p { max-width: 720px; color: #dce8e4; }
@@ -147,7 +152,14 @@ main.content {
   max-width: none;
   padding-left: 0;
   padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 2rem;
 }
+
+.hero-copy, .home-intro, .principles { min-width: 0; }
+.work-card h3, .project-card h3 { font-size: 1.12rem; line-height: 1.6; margin-top: .75rem; }
+.hero-copy .btn { font-size: .9rem; }
+.hero-copy .eyebrow { font-size: .65rem; letter-spacing: .08em; }
 
 .page-layout-full #title-block-header {
   display: none;
@@ -173,10 +185,20 @@ main.content > h2 { margin-top: 3.5rem; }
 }
 
 @media (max-width: 800px) {
-  .hero { grid-template-columns: 1fr; padding-top: 4rem; }
-  .hero-photo { width: 150px; }
+  .hero { grid-template-columns: 160px minmax(0, 1fr); gap: 1.5rem; }
+  .hero-photo { width: 160px; }
   .home-grid, .cards, .project-grid { grid-template-columns: 1fr; gap: 2rem; }
   .principles { border-left: 0; border-top: 1px solid var(--line); padding: 2rem 0 0; }
+}
+
+@media (max-width: 600px) {
+  .hero { grid-template-columns: 1fr; padding: 2rem 1.25rem; gap: 1.25rem; }
+  .hero-photo { width: 120px; }
+  .hero-copy h1 { font-size: 1.4rem; }
+  .home-grid, .section-band, .contact-strip { padding: 2rem 1.25rem; }
+  .cards { gap: 1rem; margin-top: 1.25rem; }
+  .work-card { padding: 1.25rem; }
+  .navbar-brand { font-size: .85rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

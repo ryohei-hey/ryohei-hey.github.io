@@ -1,0 +1,38 @@
+---
+title: "Education"
+description: "Rで学ぶ臨床疫学・因果推論・予測モデルの公開学習資料"
+---
+
+臨床研究の方法を、Rのコードや解析例とともに学ぶための公開資料です。RPubsの資料から、研究デザインと解析の実践に役立つものを選びました。
+
+[RPubsの資料一覧を見る](https://rpubs.com/Ryohei){.btn .btn-primary}
+
+## Causal inference & survival analysis
+
+### [差分の差（DiD）とEvent Study](https://rpubs.com/Ryohei/1434914)
+
+初めて学ぶ方向けの入門資料。DiDとEvent Studyの考え方を短時間で学びたいときに。
+
+### [Time varying covariate in Cox regression](https://rpubs.com/Ryohei/822874)
+
+時間とともに変化する共変量を扱うCox回帰の学習資料。不死時間バイアスと時間依存性解析を考えるために。
+
+## Clinical prediction models
+
+### [Clinical prediction model開発のためのサンプルサイズ計算](https://rpubs.com/Ryohei/930254)
+
+予測モデルの開発を計画する方向け。Rの `pmsampsize` を使ったサンプルサイズ計算を紹介します。
+
+### [多重補完からの予測モデル作成と性能評価](https://rpubs.com/Ryohei/930276)
+
+`mice` と `psfmi` による欠測値の補完、予測モデルの開発、性能評価・検証を扱います。補完後の結果をどう統合するかを学びたいときに。
+
+## Latent class analysis
+
+### [Latent class analysisの欠測補完から結果の提示](https://rpubs.com/Ryohei/1188880)
+
+デモデータを用い、MissForestによる欠測補完から潜在クラス分析、適合指標・VLMR検定までを扱うコード例です。
+
+---
+
+各資料の作成・更新時点の学習ノートです。コードを利用する際は、使用するR・パッケージのバージョンもご確認ください。

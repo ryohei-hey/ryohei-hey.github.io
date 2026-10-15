@@ -67,9 +67,11 @@ page-layout: full
 
 ### 再現可能な解析とツール
 
-解析コード、研究支援ツール、教育用資料など、共有可能な成果物を整理します。
+解析コードや研究プロジェクトに加え、Rで学ぶ因果推論・予測モデルなどの公開教育資料を紹介しています。
 
 [Projects →](projects.qmd)
+
+[Education →](education.qmd)
 :::
 
 ::: {.work-card}

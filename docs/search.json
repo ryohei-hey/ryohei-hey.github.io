@@ -46,7 +46,35 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。\n\n\nCritical care outcomes\n重症患者の短期転帰だけでなく、患者中心アウトカムや退院後の生活まで見据えた研究。\nCritical care Patient-centered outcomes\n\n\nCausal Cutoff\nHFNC治療中の挿管時期など、生命維持治療の意思決定に用いる閾値を患者転帰に基づいて評価する研究。\nCritical care Causal inference\n\n\nAI transportability\n検査頻度などの観察プロセスが、医療AIの施設間移転性と公平性に与える影響の評価。\nMIMIC-IV eICU Fairness"
+    "text": "研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。\nRを用いた解析の学習資料は Education にまとめています。\n\n\nCritical care outcomes\n重症患者の短期転帰だけでなく、患者中心アウトカムや退院後の生活まで見据えた研究。\nCritical care Patient-centered outcomes\n\n\nCausal Cutoff\nHFNC治療中の挿管時期など、生命維持治療の意思決定に用いる閾値を患者転帰に基づいて評価する研究。\nCritical care Causal inference\n\n\nAI transportability\n検査頻度などの観察プロセスが、医療AIの施設間移転性と公平性に与える影響の評価。\nMIMIC-IV eICU Fairness"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "臨床研究の方法を、Rのコードや解析例とともに学ぶための公開資料です。RPubsの資料から、研究デザインと解析の実践に役立つものを選びました。\nRPubsの資料一覧を見る"
+  },
+  {
+    "objectID": "education.html#causal-inference-survival-analysis",
+    "href": "education.html#causal-inference-survival-analysis",
+    "title": "Education",
+    "section": "Causal inference & survival analysis",
+    "text": "Causal inference & survival analysis\n\n差分の差（DiD）とEvent Study\n初めて学ぶ方向けの入門資料。DiDとEvent Studyの考え方を短時間で学びたいときに。\n\n\nTime varying covariate in Cox regression\n時間とともに変化する共変量を扱うCox回帰の学習資料。不死時間バイアスと時間依存性解析を考えるために。"
+  },
+  {
+    "objectID": "education.html#clinical-prediction-models",
+    "href": "education.html#clinical-prediction-models",
+    "title": "Education",
+    "section": "Clinical prediction models",
+    "text": "Clinical prediction models\n\nClinical prediction model開発のためのサンプルサイズ計算\n予測モデルの開発を計画する方向け。Rの pmsampsize を使ったサンプルサイズ計算を紹介します。\n\n\n多重補完からの予測モデル作成と性能評価\nmice と psfmi による欠測値の補完、予測モデルの開発、性能評価・検証を扱います。補完後の結果をどう統合するかを学びたいときに。"
+  },
+  {
+    "objectID": "education.html#latent-class-analysis",
+    "href": "education.html#latent-class-analysis",
+    "title": "Education",
+    "section": "Latent class analysis",
+    "text": "Latent class analysis\n\nLatent class analysisの欠測補完から結果の提示\nデモデータを用い、MissForestによる欠測補完から潜在クラス分析、適合指標・VLMR検定までを扱うコード例です。\n\n各資料の作成・更新時点の学習ノートです。コードを利用する際は、使用するR・パッケージのバージョンもご確認ください。"
   },
   {
     "objectID": "cv.html",
@@ -137,7 +165,7 @@
     "href": "index.html#selected-work",
     "title": "Ryohei Yamamoto (Kobayashi)",
     "section": "Selected work",
-    "text": "Selected work\n\n\nRESEARCH\n\n臨床データから問いを検証する\n研究デザイン、time zero、交絡、選択バイアスを明示し、臨床的に解釈できる推定を目指します。\nResearch →\n\n\n\nOPEN WORK\n\n再現可能な解析とツール\n解析コード、研究支援ツール、教育用資料など、共有可能な成果物を整理します。\nProjects →\n\n\n\nOUTPUTS\n\n論文・発表・資料\n筆頭著者・共著論文、公開プロトコル、和文論文・解説を掲載しています。\nPublications →\nGoogle Scholar →"
+    "text": "Selected work\n\n\nRESEARCH\n\n臨床データから問いを検証する\n研究デザイン、time zero、交絡、選択バイアスを明示し、臨床的に解釈できる推定を目指します。\nResearch →\n\n\n\nOPEN WORK\n\n再現可能な解析とツール\n解析コードや研究プロジェクトに加え、Rで学ぶ因果推論・予測モデルなどの公開教育資料を紹介しています。\nProjects →\nEducation →\n\n\n\nOUTPUTS\n\n論文・発表・資料\n筆頭著者・共著論文、公開プロトコル、和文論文・解説を掲載しています。\nPublications →\nGoogle Scholar →"
   },
   {
     "objectID": "index.html#collaborate",

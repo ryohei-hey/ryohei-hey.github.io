@@ -19,6 +19,8 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
+      - href: education.qmd
+        text: Education
       - href: cv.qmd
         text: CV
     right:

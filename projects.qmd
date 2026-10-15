@@ -5,6 +5,8 @@ description: "Open projects, tools, and reproducible research resources"
 
 研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。
 
+Rを用いた解析の学習資料は [Education](education.qmd) にまとめています。
+
 ::: {.project-grid}
 ::: {.project-card}
 ### Critical care outcomes

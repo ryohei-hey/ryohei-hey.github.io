@@ -142,6 +142,13 @@ main.content {
   padding-bottom: 6rem;
 }
 
+.page-layout-full main.content {
+  width: 100%;
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 main.content > h2 { margin-top: 3.5rem; }
 
 .publication-placeholder {

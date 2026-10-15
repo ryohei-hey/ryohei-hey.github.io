@@ -1,5 +1,5 @@
 ---
-title: "Ryohei Yamamoto (Kobayashi)"
+title: false
 pagetitle: "Ryohei Yamamoto (Kobayashi) | Clinical Epidemiology"
 description: "Clinical epidemiology, critical care, and causal inference"
 page-layout: full

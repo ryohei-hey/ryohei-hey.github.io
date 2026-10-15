@@ -3,32 +3,97 @@ title: "Publications"
 description: "Publications and scholarly outputs"
 ---
 
-## Selected publications
+論文・総説、公開プロトコル、和文論文・解説の主な業績を掲載しています。
+
+[Google Scholarで全業績を見る](https://scholar.google.com/citations?hl=en&user=1n3Y7mQAAAAJ&view_op=list_works&sortby=pubdate){.btn .btn-primary}
+
+## First-author publications
 
 論文は **Ryohei Yamamoto** の著者名で発表しています。
 
-1. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation. *Journal of the American Medical Directors Association*. 2026;27(11):106473.
+1. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation. *Journal of the American Medical Directors Association*. 2026;27(11):106473. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:GnPB-g6toBAC)
 
-2. **Yamamoto R**, Tohyama T, Han A, et al. Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation. *Journal of Intensive Care*. 2026;14(1):96.
+2. **Yamamoto R**, Tohyama T, Han A, et al. Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation. *Journal of Intensive Care*. 2026;14(1):96. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:BqipwSGYUEgC)
 
-3. **Yamamoto R**, Yamazaki H, Koroki T, et al. Classifying diarrhea in critically ill patients through various criteria: a cohort study. *Journal of Intensive Care*. 2025;13(1):55.
+3. **Yamamoto R**, Yamazaki H, Koroki T, et al. Classifying diarrhea in critically ill patients through various criteria: a cohort study. *Journal of Intensive Care*. 2025;13(1):55. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:r0BpntZqJG4C)
 
-4. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey. *Intensive Care Medicine*. 2025;51(6):1189–1191.
+4. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey. *Intensive Care Medicine*. 2025;51(6):1189–1191. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:RHpTSmoSYBkC)
 
-5. **Yamamoto R**, Yamazaki H, Yamamoto S, et al. Dose-response relationship between diarrhea quantity and mortality in critical care patients: A retrospective cohort study. *PLOS ONE*. 2023;18(2):e0280806.
+5. **Yamamoto R**, Yamazaki H, Yamamoto S, et al. Dose-response relationship between diarrhea quantity and mortality in critical care patients: A retrospective cohort study. *PLOS ONE*. 2023;18(2):e0280806. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:Zph67rFs4hoC)
 
-6. **Yamamoto R**, Yamazaki H, Kobara S, et al. Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers. *Journal of General Internal Medicine*. 2023;38(5):1239–1247.
+6. **Yamamoto R**, Yamazaki H, Kobara S, et al. Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers. *Journal of General Internal Medicine*. 2023;38(5):1239–1247. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:3fE2CSJIrl8C)
 
-7. **Yamamoto R**, Okazaki SR, Fujita Y, et al. Usefulness of low tidal volume ventilation strategy for patients with acute respiratory distress syndrome: a systematic review and meta-analysis. *Scientific Reports*. 2022;12(1):9331.
+7. **Yamamoto R**, Okazaki SR, Fujita Y, et al. Usefulness of low tidal volume ventilation strategy for patients with acute respiratory distress syndrome: a systematic review and meta-analysis. *Scientific Reports*. 2022;12(1):9331. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:UebtZRa9Y70C)
 
-8. **Yamamoto R**, Sugimura S, Kikuyama K, et al. Efficacy of Higher Positive End-Expiratory Pressure Ventilation Strategy in Patients With Acute Respiratory Distress Syndrome: A Systematic Review and Meta-Analysis. *Cureus*. 2022;14(7):e26957.
+8. **Yamamoto R**, Sugimura S, Kikuyama K, et al. Efficacy of Higher Positive End-Expiratory Pressure Ventilation Strategy in Patients With Acute Respiratory Distress Syndrome: A Systematic Review and Meta-Analysis. *Cureus*. 2022;14(7):e26957. [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:5nxA0vEk-isC)
 
-## Other scholarly outputs
+## Collaborative research & reviews
 
-- 学会発表・招待講演
-- 公開プロトコル・事前登録
-- 教育資料・解説記事
-- オープンソースの研究支援ツール
+- Kotani Y, Karumai T, **Yamamoto R**, Hayashi Y. [Prognostic performance of the ratio of mean arterial pressure to norepinephrine equivalent dose in critically ill hypotensive patients: A single-center retrospective cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:hMod-77fHWUC). *Journal of Critical Care. 94:155560.* 2026.
 
-完全な業績一覧は [ORCID](https://orcid.org/0000-0002-5144-6585) および [researchmap](https://researchmap.jp/yamamotoryohei) を参照してください。
+- Imai R, **Yamamoto R**, Niitsu T, et al. [Comparison of oxygenation targets in critically ill adults: a systematic review and network meta-analysis of randomized controlled trials](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:blknAaTinKkC). *American Journal of Respiratory and Critical Care Medicine. 212(5):911–920.* 2026.
+
+- Atun R, **Yamamoto R**, Yamazaki H, Fukuhara S. [Artificial Intelligence in Health Systems: Addressing Global Underperformance Through Digital Transformation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:NMxIlDl6LWMC). *Annals of Clinical Epidemiology. 27009.* 2026.
+
+- Suzuki S, Suzuki T, Kamitani T, **Yamamoto R**. [Effect of educational intervention on polypharmacy management among community pharmacists: An interrupted time series analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:bEWYMUwI8FkC). *Annals of Clinical Epidemiology. 8(1):18–27.* 2026.
+
+- Niitsu T, Fukushima K, Komukai S, **Yamamoto R**, et al. [Effectiveness of antifibrotic treatment in real-world patients with progressive pulmonary fibrosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:j3f4tGmQtD8C). *Respiratory Medicine. 108347.* 2025.
+
+- Shime N, Nakada T, Yatabe K, et al. [The Japanese clinical practice guidelines for management of sepsis and septic shock 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:M3NEmzRMIkIC). *Journal of Intensive Care. 13(1):15.* 2025.
+
+- Norisue Y, **Yamamoto R**, Yamakawa H, et al. [Incidence of diffuse parenchymal lung disease in patients meeting the Berlin definition of ARDS on mechanical ventilation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:_Qo2XoVZTnwC). *ERJ Open Research.* 2025.
+
+- Matsuki F, Suzuki S, Hirose T, et al. [Prescription and application adequacy of topical corticosteroids based on the finger-tip unit method in adult patients with atopic dermatitis: A cross-sectional study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:iH-uZ7U-co4C). *Journal of General and Family Medicine. 1–8.* 2025.
+
+- Murata M, Shimizu S, **Yamamoto R**, et al. [Steroid therapy for patients with septic shock: a multicenter observational study conducted in Japan](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:hFOr9nPyWt4C). *Internal Medicine. 63(24):3307–3315.* 2024.
+
+- Kobara S, **Yamamoto R**, Rad MG, et al. [Association between comorbidities at ICU admission and post-Sepsis physical impairment: A retrospective cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:QIV2ME_5wuYC). *Journal of Critical Care. 83:154833.* 2024.
+
+- Ishida T, Iwasaki Y, **Yamamoto R**, et al. [Evaluation of the Impact of a Less-Invasive Trunk and Pelvic Trauma Protocol on Mortality in Patients with Severe Injury by Interrupted Time-Series Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:-f6ydRqryjwC). *Medicina. 60(8):1338.* 2024.
+
+- Karumai T, Kotani Y, **Yamamoto R**, Tonai M, Hayashi Y. [Septic coagulopathy: pathophysiology, diagnosis, and therapeutic strategies](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:IWHjjKOFINEC). *Current Infectious Disease Reports. 26(3):91–106.* 2024.
+
+- Morishita S, **Yamamoto R**, Yamada Y. [Potential Biases in Critical Care Observational Studies: Comments on an Observational Study on Association Between Family Presence and Delirium in Critically Ill Patients](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:hC7cP41nSMkC). *Critical Care Medicine. 51(5):e124–e125.* 2023.
+
+- Yasuda H, Rickard CM, Marsh N, **Yamamoto R**, et al. [Risk factors for peripheral intravascular catheter-related phlebitis in critically ill patients: analysis of 3429 catheters from 23 Japanese intensive care units](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:hqOjcs7Dif8C). *Annals of Intensive Care. 12(1):33.* 2022.
+
+- Hongo T, **Yamamoto R**, Liu K, et al. [Association between timing of speech and language therapy initiation and outcomes among post-extubation dysphagia patients: a multicenter retrospective cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:Se3iqnhoufwC). *Critical Care. 26(1):98.* 2022.
+
+- Okabayashi S, Yamazaki H, **Yamamoto R**, et al. [Certolizumab pegol for maintenance of medically induced remission in Crohn’s disease](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:YsMSGLbcyi4C). *Cochrane Database of Systematic Reviews.* 2022.
+
+- Yasuda H, **Yamamoto R**, Hayashi Y, et al. [Occurrence and incidence rate of peripheral intravascular catheter-related phlebitis and complications in critically ill patients: a prospective cohort study (AMOR-VENUS study)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:WF5omc3nYNoC). *Journal of Intensive Care. 9(1):3.* 2021.
+
+- Yasuda H, Kondo N, **Yamamoto R**, et al. [Monitoring of gastric residual volume during enteral nutrition](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:u-x6o8ySG0sC). *Cochrane Database of Systematic Reviews.* 2021.
+
+## Published protocols
+
+- Shimoyama K, **Yamamoto R**, Kasugai D, et al. [Protocol and Statistical Analysis Plan for Efficacy of Local Anesthesia to the Trachea via a Subglottic Secretion Drainage Port in Orally Intubated Critically Ill Patients: A Single-Center Cluster-Crossover Phase 2 Randomized Controlled Trial](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:YFjsv_pBGBYC). *CHEST Critical Care. 100280.* 2026.
+
+- Kasugai D, **Yamamoto R**, Kobayashi H, et al. [Japan Intensive Care Consortium: Nationwide Effort for Extracorporeal Membrane Oxygenation Care Optimization and Excellence Study: Study Protocol](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:maZDTaKrznsC). *Annals of Clinical Epidemiology. 7(4):128–136.* 2025.
+
+## Japanese articles & commentary
+
+- 小林絵梨，**山本良平**． [本当にNPPV管理中に鎮静薬を使ってよいのだろうか？：現時点でルーチンに使用すべきでない](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:k_IJM867U9cC). *INTENSIVIST. 17(4):554–557.* 2025.
+
+- 廣瀬隆，**山本良平**，鈴木すみれ，ほか． [H. pylori 1次除菌中における喫煙・飲酒・高脂肪食摂取の生活習慣：記述研究](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:e5wmG9Sq2KIC). *日本プライマリ・ケア連合学会誌. 48(1):2–10.* 2025.
+
+- 鈴木すみれ，**山本良平**，廣瀬隆，ほか． [薬局薬剤師に対する医療従事者からの問い合わせに関する負担：記述的横断研究](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:HDshCWvjkbEC). *医薬品情報学. 26(2):65–71.* 2024.
+
+- **山本良平**． [集中治療領域における臨床研究：これまでとこれから](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:9ZlFYXVOiuMC). *呼吸器内科. 43(5):560–565.* 2023.
+
+- **山本良平**． [腸管管理：便秘や下痢は予防すべきか？](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:4TOpqqG69KYC). *INTENSIVIST. 15(1):144–150.* 2023.
+
+- 上田祐菜，**山本良平**，軽米寿之． [医療者間での重症患者の下痢の定義の違い：横断研究](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:MXK_kJrjxJIC). *日本集中治療医学会雑誌. 29(5):547–551.* 2022.
+
+- **山本良平**． [ICU患者の長期予後の予測：予測モデルは長期予後を予測できるか？臨床で使用できるか？](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:8k81kl-MbHgC). *INTENSIVIST. 14(1):31–44.* 2022.
+
+- **山本良平**． [ICUにおける臨床研究の今と未来：ICUにおける臨床研究で今知っておくべきこと](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:_FxGoFyzp5QC). *INTENSIVIST. 12(4):783–797.* 2020.
+
+- **山本良平**． [臨床予測ルールの使い方，予測指標論文の読み方](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n3Y7mQAAAAJ&citation_for_view=1n3Y7mQAAAAJ:IjCSPb-OGe4C). *レジデントノート. 21(7):1203–1217.* 2019.
+
+## Full publication list
+
+その他の論文・業績と最新の収載情報は [Google Scholar](https://scholar.google.com/citations?hl=en&user=1n3Y7mQAAAAJ&view_op=list_works&sortby=pubdate)、[ORCID](https://orcid.org/0000-0002-5144-6585)、[researchmap](https://researchmap.jp/yamamotoryohei) をご覧ください。
+
+このページは主要業績の抜粋です。追加した業績の書誌情報はGoogle Scholarの掲載内容に基づきます（2026年10月14日確認）。
 

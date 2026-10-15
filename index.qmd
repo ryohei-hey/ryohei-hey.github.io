@@ -77,9 +77,11 @@ page-layout: full
 
 ### 論文・発表・資料
 
-代表的な成果をテーマ別・年別に参照できる形で掲載します。
+筆頭著者・共著論文、公開プロトコル、和文論文・解説を掲載しています。
 
 [Publications →](publications.qmd)
+
+[Google Scholar →](https://scholar.google.com/citations?hl=en&user=1n3Y7mQAAAAJ&view_op=list_works&sortby=pubdate)
 :::
 :::
 :::

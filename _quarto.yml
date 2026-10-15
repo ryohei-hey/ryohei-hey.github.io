@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ryohei Yamamoto (Kobayashi)"
+  description: "Clinical epidemiology, critical care, and causal inference"
+  site-url: "https://ryohei-hey.github.io"
+  navbar:
+    background: "#f7f8f6"
+    foreground: "#172321"
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: "https://github.com/ryohei-hey"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Ryohei Yamamoto (Kobayashi)"
+    right: "Built with [Quarto](https://quarto.org/) · Hosted on GitHub Pages"
+  open-graph: true
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+lang: ja
+

@@ -1,0 +1,58 @@
+---
+title: "CV"
+description: "Curriculum vitae"
+---
+
+## Ryohei Yamamoto (Kobayashi)
+
+**Ryohei Yamamoto (Kobayashi), MD, PhD**<br>
+Clinical epidemiology · Critical care · Causal inference · Medical AI
+
+## Current position
+
+- **2025–present** — Visiting Scientist, Laboratory for Computational Physiology, Massachusetts Institute of Technology
+- **2024–present** — 助教、福島県立医科大学 臨床研究イノベーションセンター
+- **2023–present** — 客員研究員、京都大学大学院医学研究科 臨床疫学グループ
+- **2019–present** — 非常勤医師、亀田総合病院 集中治療科
+
+## Education and training
+
+- **2019–2023** — PhD, Clinical Epidemiology, Kyoto University Graduate School of Medicine
+- **2006–2012** — MD, Tokyo Medical and Dental University
+
+## Qualifications
+
+- Emergency Medicine Specialist, Japanese Association for Acute Medicine (2019)
+- Intensive Care Specialist, Japanese Society of Intensive Care Medicine (2021)
+- PhD in Medicine, Kyoto University (2023)
+- Certified Expert, Society for Clinical Epidemiology (2024)
+
+## Research interests
+
+- Clinical epidemiology
+- Critical care outcomes
+- Causal inference using observational data
+- Prediction model evaluation
+- Bias, fairness, and transportability of medical AI
+
+## Selected activities
+
+- Executive Board Member, Japanese Society of Education for Physicians and Trainees in Intensive Care (JSEPTIC)
+- Academic Editor, *PLOS Digital Health*
+- Working-group member for the Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 and the ARDS Clinical Practice Guidelines 2021/2024
+- Editorial lead for the 2026 sepsis issue of *Intensivist*
+
+## Awards and research support
+
+- Best Abstract Award, Japanese Society of Intensive Care Medicine (2023, 2026)
+- ZOLL Foundation Research Grant (2026)
+- Telecommunications Advancement Foundation Research Grant (2025)
+- JSPS KAKENHI Grant-in-Aid for Early-Career Scientists (2024–2027)
+- Naito Foundation Overseas Research Fellowship (awarded 2024)
+
+## Profiles
+
+- [GitHub](https://github.com/ryohei-hey)
+- [ORCID](https://orcid.org/0000-0002-5144-6585)
+- [researchmap](https://researchmap.jp/yamamotoryohei)
+

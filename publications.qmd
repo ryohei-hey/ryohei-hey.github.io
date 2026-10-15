@@ -1,0 +1,34 @@
+---
+title: "Publications"
+description: "Publications and scholarly outputs"
+---
+
+## Selected publications
+
+論文は **Ryohei Yamamoto** の著者名で発表しています。
+
+1. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Elderly Health Check-Up and Functional Disability or Death in Adults 75 to 84 Years: A Target Trial Emulation. *Journal of the American Medical Directors Association*. 2026;27(11):106473.
+
+2. **Yamamoto R**, Tohyama T, Han A, et al. Impact of an ROX index-guided intubation strategy on mortality in patients receiving high-flow nasal cannula: a target trial emulation. *Journal of Intensive Care*. 2026;14(1):96.
+
+3. **Yamamoto R**, Yamazaki H, Koroki T, et al. Classifying diarrhea in critically ill patients through various criteria: a cohort study. *Journal of Intensive Care*. 2025;13(1):55.
+
+4. **Yamamoto R**, Yamazaki H, Nakagawa H, et al. Unraveling important outcomes for elderly patients facing critical illness: a vignette-based survey. *Intensive Care Medicine*. 2025;51(6):1189–1191.
+
+5. **Yamamoto R**, Yamazaki H, Yamamoto S, et al. Dose-response relationship between diarrhea quantity and mortality in critical care patients: A retrospective cohort study. *PLOS ONE*. 2023;18(2):e0280806.
+
+6. **Yamamoto R**, Yamazaki H, Kobara S, et al. Development and Initial Psychometric Validation of the COVID-19 Pandemic Burden Index for Healthcare Workers. *Journal of General Internal Medicine*. 2023;38(5):1239–1247.
+
+7. **Yamamoto R**, Okazaki SR, Fujita Y, et al. Usefulness of low tidal volume ventilation strategy for patients with acute respiratory distress syndrome: a systematic review and meta-analysis. *Scientific Reports*. 2022;12(1):9331.
+
+8. **Yamamoto R**, Sugimura S, Kikuyama K, et al. Efficacy of Higher Positive End-Expiratory Pressure Ventilation Strategy in Patients With Acute Respiratory Distress Syndrome: A Systematic Review and Meta-Analysis. *Cureus*. 2022;14(7):e26957.
+
+## Other scholarly outputs
+
+- 学会発表・招待講演
+- 公開プロトコル・事前登録
+- 教育資料・解説記事
+- オープンソースの研究支援ツール
+
+完全な業績一覧は [ORCID](https://orcid.org/0000-0002-5144-6585) および [researchmap](https://researchmap.jp/yamamotoryohei) を参照してください。
+

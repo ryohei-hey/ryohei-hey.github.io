@@ -1,0 +1,33 @@
+---
+title: "Projects"
+description: "Open projects, tools, and reproducible research resources"
+---
+
+研究を再現し、方法を共有し、次の問いにつなげるための公開プロジェクトを掲載します。
+
+::: {.project-grid}
+::: {.project-card}
+### Critical care outcomes
+
+重症患者の短期転帰だけでなく、患者中心アウトカムや退院後の生活まで見据えた研究。
+
+`Critical care` `Patient-centered outcomes`
+:::
+
+::: {.project-card}
+### Causal Cutoff
+
+HFNC治療中の挿管時期など、生命維持治療の意思決定に用いる閾値を患者転帰に基づいて評価する研究。
+
+`Critical care` `Causal inference`
+:::
+
+::: {.project-card}
+### AI transportability
+
+検査頻度などの観察プロセスが、医療AIの施設間移転性と公平性に与える影響の評価。
+
+`MIMIC-IV` `eICU` `Fairness`
+:::
+:::
+
